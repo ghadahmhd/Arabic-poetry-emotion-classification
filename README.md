@@ -114,5 +114,4 @@ Love / Joy (depending on phrasing)
 
 ---
 
-## Project Title
-**Arabic Poetry Emotion Classification Using NLP and Machine Learning Techniques**
+
